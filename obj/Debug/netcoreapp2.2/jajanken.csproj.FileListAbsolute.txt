@@ -1,0 +1,11 @@
+C:\Users\ethan\Desktop\janken\jajanken\bin\Debug\netcoreapp2.2\jajanken.deps.json
+C:\Users\ethan\Desktop\janken\jajanken\bin\Debug\netcoreapp2.2\jajanken.runtimeconfig.json
+C:\Users\ethan\Desktop\janken\jajanken\bin\Debug\netcoreapp2.2\jajanken.runtimeconfig.dev.json
+C:\Users\ethan\Desktop\janken\jajanken\bin\Debug\netcoreapp2.2\jajanken.dll
+C:\Users\ethan\Desktop\janken\jajanken\bin\Debug\netcoreapp2.2\jajanken.pdb
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.csprojAssemblyReference.cache
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.AssemblyInfo.cs
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.dll
+C:\Users\ethan\Desktop\janken\jajanken\obj\Debug\netcoreapp2.2\jajanken.pdb
